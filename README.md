@@ -14,7 +14,7 @@ This App is to demonstrate the live view updation on the state change event, suc
 
 ![Initial Book](./PreviewScreenshots/InitialList.png)
 
-## New Book Adding
+## Adding New Book
 
 ![New Book Form](./PreviewScreenshots/BookAddedForm.png)
 
@@ -24,4 +24,4 @@ This App is to demonstrate the live view updation on the state change event, suc
 
 ## Error 404 Page
 
-![Error Page](./PreviewScreenshots/Error404Page/jpg)
+![Error Page](./PreviewScreenshots/Error404Page.jpg)
