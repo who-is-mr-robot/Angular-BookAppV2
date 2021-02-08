@@ -1,27 +1,27 @@
-# TestApp
+# Angular FrontEnd Book App V2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+This App is to demonstrate the live view updation on the state change event, such as a book is added to the list. This tiny app also shows, how to route unspecified routes to a 404 page.
 
-## Development server
+## Introduction page
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Introduction Page](./PreviewScreenshots/Introduction.png)
 
-## Code scaffolding
+## Add Book Form
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Initial Form](./PreviewScreenshots/InitialForm.png)
 
-## Build
+## Initial List of Books
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![Initial Book](./PreviewScreenshots/InitialList.png)
 
-## Running unit tests
+## New Book Adding
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![New Book Form](./PreviewScreenshots/BookAddedForm.png)
 
-## Running end-to-end tests
+## Updated List
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+![Updated List](./PreviewScreenshots/NewAddedBook.png)
 
-## Further help
+## Error 404 Page
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Error Page](./PreviewScreenshots/Error404Page/jpg)
